@@ -1,16 +1,6 @@
 # Introduction
 
-Time:2024-10-16T13:30:24+00:00  
-Please note any actions according to P12.01 and if needed please not the
-following items:
-
-- Incident Learning using the Learning form F12.01.02 . within 1 week of
-  the completion of the investigation report.
-
-- Ensure that the form is sent to  Uniper-HSSE@uniper.energy.   
-    
-  Links:
-  https://gw.sharepoint.uniper.energy/sites/Uniper-Guide/\_layouts/15/Authenticate.aspx?Source=%2fsites%2fUniper%2DGuide%2fContent%2fKey%20Processes%2fCOO%2fHSSE%20and%20CR%2fYYYY%5FMM%5FDD%20of%20incident%5FTechnology%5FCountry%5FLocation%5FPotential%20Risk%5FSynergi%20number%20%28F12%2E01%2E02%29%5FEN%2Edocx
+- PRIVATE INFORMATION
 
 # Executive Summary
 
@@ -97,11 +87,9 @@ impact on compromised entities could be significant.
 # Project Summary 
 
 The purpose of this report is to perform Threat Hunting related to the
-attack that occurred by incident **BSI Tageslagebericht Received:
-2024-10-16T13:30:24+00:00 \| Subject: WG: \[Lagebericht\]\[TLP:GREEN\]
-20241016: BSI IT-Tageslageberich**, collecting the **IoCs** of these
+attack that occurred by incident **xxxxxxxxxxxxxxxxxx**, collecting the **IoCs** of these
 attacks, **related malware**, **associated campaigns** and **associated
-tools**, with the ultimate goal of integrating with UNIPER tools doing
+tools**, with the ultimate goal of integrating with Company tools doing
 first verifying a possible exploitation attempt, if it occurs, carry out
 the mitigation process and if it does not occur, supply the defense
 sensors to raise the level of security.
@@ -207,14 +195,14 @@ in our EXT MISP
 Next step we can integrate this IoCs with our MISP using the Tags based
 on Threat Actors ( APT Group) or Malware Family or Associated Campains.
 
-# Hunting Uniper Tools
+# Hunting Organizatino Tools
 
 We can check with the SIEM team with we can any incident during the
 latest 365 days
 
-- Sentinel
+- Antivus
 
-- PaloAlto
+- FW/IPS/WAF
 
 - Other tools that we have.
 
