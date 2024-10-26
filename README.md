@@ -67,7 +67,7 @@ controlled by the threat actor, effectively completing the infection
 chain and ensuring the attackers maintained control over the compromised
 environment.
 
-<img width="398" alt="image" src="https://github.com/user-attachments/assets/8f444389-16d5-4ef6-9673-72e8b98486c4">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/8f444389-16d5-4ef6-9673-72e8b98486c4">
 
 source:
 https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/j/earth-simnavaz-levies-advanced-cyberattacks/Simnavaz-Fig01.png
@@ -125,7 +125,7 @@ Now, we have 191 IoCs to add in our External MISP
 There are a large number of malware associated with this APTs Groups,
 below you can find some references from APT 34 provided by Mandiant
 
-<img width="492" alt="image" src="https://github.com/user-attachments/assets/631aeac5-c468-4723-949b-f781d41af094">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/631aeac5-c468-4723-949b-f781d41af094">
 
 Source:
 <https://advantage.mandiant.com/actors/threat-actor--beba5b2a-1ab1-5a42-904c-870c67bbf2f3#indicators>
@@ -148,7 +148,7 @@ Article.
 
  ![image](https://github.com/user-attachments/assets/9009fd52-1cd4-490c-9468-10753035234f)
 
-<img width="488" alt="image" src="https://github.com/user-attachments/assets/527b7827-c310-45cd-9a00-ab9743da0617">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/527b7827-c310-45cd-9a00-ab9743da0617">
 
 
 SHA256: a24303234e0cc6f403fca8943e7170c90b69976015b6a84d64a9667810023ed7
@@ -156,7 +156,7 @@ SHA256: a24303234e0cc6f403fca8943e7170c90b69976015b6a84d64a9667810023ed7
  ![image](https://github.com/user-attachments/assets/4587a65f-c496-43fb-b004-10f70c3037e9)
 
 
-<img width="488" alt="image" src="https://github.com/user-attachments/assets/cf5bb3be-ccab-4afc-9e75-03b6ff985d9b">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/cf5bb3be-ccab-4afc-9e75-03b6ff985d9b">
 
 
 ### Sandbox – JoeSandbox
@@ -168,19 +168,19 @@ We can find information from JoeSandbox based on:
 
 **Executable name = RunPEinMemory.exe**
 
-<img width="245" alt="image" src="https://github.com/user-attachments/assets/94b59a95-6c36-41d0-ab00-2fd64f5ae179">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/94b59a95-6c36-41d0-ab00-2fd64f5ae179">
 
 
-<img width="488" alt="image" src="https://github.com/user-attachments/assets/fbf4391e-c6b4-412d-8dfa-d79884e3988f">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/fbf4391e-c6b4-412d-8dfa-d79884e3988f">
 
 
-<img width="488" alt="image" src="https://github.com/user-attachments/assets/ab7b07fc-3839-4cf1-a1c0-2ebb9dee22ef">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/ab7b07fc-3839-4cf1-a1c0-2ebb9dee22ef">
 
 
-<img width="488" alt="image" src="https://github.com/user-attachments/assets/63027b41-89e1-416d-80be-abad99eff3c0">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/63027b41-89e1-416d-80be-abad99eff3c0">
 
 
-<img width="488" alt="image" src="https://github.com/user-attachments/assets/62b76116-7d24-43f1-a8ef-5ee97d3ba3a4">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/62b76116-7d24-43f1-a8ef-5ee97d3ba3a4">
 
 Source complete reference:
 https://www.joesandbox.com/analysis/1533354/0/html
