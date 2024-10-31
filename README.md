@@ -10,10 +10,10 @@ performance by me as a Threat Hunter.
 # Executive Summary
 
 Explanation executive way, bringing some possible points.
-•	Small Summary of the case
-•	Region impacted with this attack
-•	Possible MITRE ATT&CK techniques
-•	Other information relevantes for this case
+- Small Summary of the case
+- Region impacted with this attack
+- Possible MITRE ATT&CK techniques
+- Other information relevantes for this case
 
 ### Threat Detail
 Explanation about the incident, we can use the Mandiant report as base if we have.
