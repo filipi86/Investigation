@@ -135,28 +135,26 @@ Source:
 Doing some OSINT search through the Malware Bazaar we can find some
 binaries from this APTs group
 
-<img src="media/image6.png" style="width:6.8722in;height:5.17355in"
-alt="A screenshot of a computer Description automatically generated" />  
-Source: https://bazaar.abuse.ch/browse.php?search=tag%3Aapt34
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/6aba9830-ed58-4a9d-a003-d07cf191a81d">
+
 
 There are two binaries in the Malware Bazaar repository where we can
 collect more IoCs of this groups provided according to Trend Micro
 Article.
 
-**SHA256:
- 54e8fbae0aa7a279aaedb6d8eec0f95971397fea7fcee6c143772c8ee6e6b498**
+#### **SHA256: 54e8fbae0aa7a279aaedb6d8eec0f95971397fea7fcee6c143772c8ee6e6b498**
 
  ![image](https://github.com/user-attachments/assets/9009fd52-1cd4-490c-9468-10753035234f)
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/527b7827-c310-45cd-9a00-ab9743da0617">
 
 
-SHA256: a24303234e0cc6f403fca8943e7170c90b69976015b6a84d64a9667810023ed7
+#### **SHA256: a24303234e0cc6f403fca8943e7170c90b69976015b6a84d64a9667810023ed7** 
 
  ![image](https://github.com/user-attachments/assets/4587a65f-c496-43fb-b004-10f70c3037e9)
 
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/cf5bb3be-ccab-4afc-9e75-03b6ff985d9b">
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/cf5bb3be-ccab-4afc-9e75-03b6ff985d9b">
 
 
 ### Sandbox – JoeSandbox
@@ -168,19 +166,19 @@ We can find information from JoeSandbox based on:
 
 **Executable name = RunPEinMemory.exe**
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/94b59a95-6c36-41d0-ab00-2fd64f5ae179">
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/94b59a95-6c36-41d0-ab00-2fd64f5ae179">
 
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/fbf4391e-c6b4-412d-8dfa-d79884e3988f">
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/fbf4391e-c6b4-412d-8dfa-d79884e3988f">
 
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/ab7b07fc-3839-4cf1-a1c0-2ebb9dee22ef">
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/ab7b07fc-3839-4cf1-a1c0-2ebb9dee22ef">
 
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/63027b41-89e1-416d-80be-abad99eff3c0">
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/63027b41-89e1-416d-80be-abad99eff3c0">
 
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/62b76116-7d24-43f1-a8ef-5ee97d3ba3a4">
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/62b76116-7d24-43f1-a8ef-5ee97d3ba3a4">
 
 Source complete reference:
 https://www.joesandbox.com/analysis/1533354/0/html
