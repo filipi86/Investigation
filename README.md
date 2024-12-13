@@ -49,19 +49,19 @@ Next step we should integrate this IoCs with our MISP environment using the Tags
 Next step we can integrate this IoCs with our MISP using the Tags based
 on Threat Actors ( APT Group) or Malware Family or Associated Campains.
 
-# Hunting Organizatino Tools
+# Hunting Organization Tools
 
 We can check with the SIEM team with we can any incident during the
 latest 365 days
 
-- Antivus
+- EDR - XDR - Antivirus
 - FW/IPS/WAF
 - Other tools that we have.
 
 # Mitigation Tools
 
 In this session we can see possible mitigation to protect against this attacks
-- EDR
+- EDR - XDR - Antivirus
 - FW / IPS / WAF
 - Other tools that you have.
 
