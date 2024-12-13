@@ -193,14 +193,17 @@ in our EXT MISP
 Next step we can integrate this IoCs with our MISP using the Tags based
 on Threat Actors ( APT Group) or Malware Family or Associated Campains.
 
-# Hunting Organizatino Tools
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/f16250ac-4b31-42e6-affb-6b2760b495df" />
+
+
+# Hunting Organization Tools
 
 We can check with the SIEM team with we can any incident during the
 latest 365 days
 
-- Antivus
+- EDR - XDR - Antivirus
 
 - FW/IPS/WAF
 
-- Other tools that we have.
+- Other tools that you have.
 
