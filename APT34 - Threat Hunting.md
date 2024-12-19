@@ -33,8 +33,8 @@ https://www.trendmicro.com/en_us/research/24/j/earth-simnavaz-cyberattacks.html
 
 Additionally, an email from the Cyber Threat Intelligence team at XXXXXXX
 mentions that the XXXXXXXXXXXXXX, which includes information on
-the **Earth Simnavaz attacks**, is shared within the OT Vulnerability- &
-Incident-Management teams channel
+the **Earth Simnavaz attacks**, is shared within the Vulnerability &
+Incident Management teams channel
 
 - Mandiant analysts are constantly releasing new insights into adversary
   activity through our Mandiant Advantage platform. This report
