@@ -31,8 +31,8 @@ obfuscate communication with their Command-and-Control (C2) servers1.
 Reference:
 https://www.trendmicro.com/en_us/research/24/j/earth-simnavaz-cyberattacks.html
 
-Additionally, an email from the Cyber Threat Intelligence team at Uniper
-mentions that the BSI IT-Tageslagebericht, which includes information on
+Additionally, an email from the Cyber Threat Intelligence team at XXXXXXX
+mentions that the XXXXXXXXXXXXXX, which includes information on
 the **Earth Simnavaz attacks**, is shared within the OT Vulnerability- &
 Incident-Management teams channel
 
